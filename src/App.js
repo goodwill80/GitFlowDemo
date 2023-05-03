@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning git flow
+          Learning git flow & DevOps
         </a>
       </header>
     </div>
